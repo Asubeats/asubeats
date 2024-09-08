@@ -2,7 +2,7 @@
 title: 记使用MCC部署Minecraft进行挂机和遇到的一些问题
 published: 2024-09-10
 description: 部署并使用mcc进行在游戏Minecraft中的挂机和一些操作，使得游戏进行区块加载和随机刻计算
-image: /images/mcc.jpg
+image: /images/cover.jpg
 tags: [MCC, Minecraft,linux,ssh,vim,ini,gt,tick,vps]
 category: Linux
 draft: false
@@ -36,7 +36,7 @@ draft: false
 ~~(顺带说一下，如果这个都不会的话，这样的项目建议还是洗洗睡吧)~~
 
 
-#### 安装 .NET Core 7
+#### 安装 `.NET Core 7`
 > 提示:如果您的 VPS 使用 ARM 处理器，请按照 [这个](https://mccteam.github.io/l10n/zh-Hans/guide/installation.html#installing-net-on-arm)部分文档进行操作，然后返回此文档之后的部分。
 
 > 在`Ubuntu 22.04` 上使用新版本的 .NET Core 7 可能会遇到以下错误：`A fatal error occurred, the folder [/usr/share/dotnet/host/fxr] does not contain any version-numbered child folders` 如果你遇到了这个错误，请使用这个[解决方案](https://github.com/dotnet/sdk/issues/27082#issuecomment-1211143446)
