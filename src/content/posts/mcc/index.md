@@ -2,7 +2,7 @@
 title: 记使用MCC部署Minecraft进行挂机和遇到的一些问题
 published: 2024-09-10
 description: 部署并使用mcc进行在游戏Minecraft中的挂机和一些操作，使得游戏进行区块加载和随机刻计算
-image: /images/assets/cover.jpg
+image: /assets/images/cover.jpg
 tags: [MCC, Minecraft,linux,ssh,vim,ini,gt,tick,vps]
 category: Linux
 draft: false
