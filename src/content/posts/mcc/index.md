@@ -20,6 +20,8 @@ draft: false
 
 ### 资源链接与参考文档
 
+::github{repo="<MCCTeam/Minecraft-Console-Client>"}
+
 [MCC官方文档](https://mccteam.github.io/ "Minecraft Console Client MCC is a lightweight open-source Minecraft Java client implemented in C#")
 
 [MCC-Github地址](https://github.com/MCCTeam/Minecraft-Console-Client "Minecraft Console Client (MCC) is a lightweight cross-platform open-source Minecraft TUI client for Java edition that allows you to connect to any Minecraft Java server, send commands and receive text messages in a fast and easy way without having to open the main Minecraft game.")
@@ -36,9 +38,13 @@ draft: false
 
 
 #### 安装 `.NET Core 7`
-> 提示:如果您的 VPS 使用 ARM 处理器，请按照 [这个](https://mccteam.github.io/l10n/zh-Hans/guide/installation.html#installing-net-on-arm)部分文档进行操作，然后返回此文档之后的部分。
+:::note
+ 提示:如果您的 VPS 使用 ARM 处理器，请按照 [这个](https://mccteam.github.io/l10n/zh-Hans/guide/installation.html#installing-net-on-arm)部分文档进行操作，然后返回此文档之后的部分。
+:::
 
-> 在`Ubuntu 22.04` 上使用新版本的 .NET Core 7 可能会遇到以下错误：`A fatal error occurred, the folder [/usr/share/dotnet/host/fxr] does not contain any version-numbered child folders` 如果你遇到了这个错误，请使用这个[解决方案](https://github.com/dotnet/sdk/issues/27082#issuecomment-1211143446)
+:::note
+在`Ubuntu 22.04` 上使用新版本的 .NET Core 7 可能会遇到以下错误：`A fatal error occurred, the folder [/usr/share/dotnet/host/fxr] does not contain any version-numbered child folders` 如果你遇到了这个错误，请使用这个[解决方案](https://github.com/dotnet/sdk/issues/27082#issuecomment-1211143446)
+:::
 
 以上两条来自于mccteam官方文档
 
