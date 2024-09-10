@@ -20,7 +20,7 @@ draft: false
 
 ### 资源链接与参考文档
 
-::github{repo="<MCCTeam/Minecraft-Console-Client>"}
+::github{repo="MCCTeam/Minecraft-Console-Client"}
 
 [MCC官方文档](https://mccteam.github.io/ "Minecraft Console Client MCC is a lightweight open-source Minecraft Java client implemented in C#")
 
