@@ -8,4 +8,5 @@ draft: false
 ---
 
 图片大小为约4.7MB,直连的人可能有点慢
-!(MainImage)[./114514.jpg]
+
+![MainImage](./114514.jpg)
