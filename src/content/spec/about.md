@@ -6,4 +6,4 @@ This is a personal site for Asubeats
  ### Additional Info
 The avatar has got the author's agreement,the blog is non-profit
 
-![osu! signature card](/card?user=Asubeats&mode=std&animation=true)
+![osu! signature card](https://osu-sig.vercel.app/card?user=Asubeats&mode=std&animation=true)
