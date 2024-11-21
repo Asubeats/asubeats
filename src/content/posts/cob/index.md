@@ -1,7 +1,7 @@
 ---
-title:某行各地分行规定是否不同？—记一次办理业务时被卡的经历
-published:2024-11-21
-description:本本记录了作者尝试在某行合法办理业务时被百般刁难的经历
+title: 某行各地分行规定是否不同？—记一次办理业务时被卡的经历
+published: 2024-11-21
+description: 本本记录了作者尝试在某行合法办理业务时被百般刁难的经历
 tags: [银行,跨境,金融,万事达]
 category: Front-end
 draft: false
