@@ -7,6 +7,8 @@ category: 使用导引
 draft: false
 ---
 
+<meta name="referrer" content="no-referrer">
+
 # Intro
 本文记录的RIA第257号共鸣点“ **海淀** ”中 **640熔炉组** 的使用方法
 
@@ -20,8 +22,8 @@ draft: false
 
 ![640熔炉组地图预览](./640_preview.png)
 
-![预览](./preview_1.webp)
-![预览_2](./preview_2.webp)
+![预览](./https://i0.hdslb.com/bfs/article/bb1eec33ba8533e4210ea5e58d47e352452972510.png)
+![预览_2](./https://i0.hdslb.com/bfs/article/6d892ee0b382ddbce95a7d1408112554452972510.png)
 
 ## 基本能力
 **640个Minecraft熔炉并行运行，并配有白名单 拆包机 混杂打包 手动装盒 等功能**
