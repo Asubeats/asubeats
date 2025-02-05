@@ -39,6 +39,29 @@ draft: false
 #### 空盒检查部分
 请先确保此位置的空盒充足，当缺盒时最多可以继续运行约17分钟
 <img src="https://i0.hdslb.com/bfs/article/04dc5db5f3cc35d1de33f70e379f5073452972510.png" referrerpolicy="no-referrer" alt="空盒检查">
+:::caution
+注意此处只能输入空盒，请勿放入其他物品
+:::
 
 #### 骨粉余量检查
 如图所示的三处大箱子总计9个大箱子需要填充`盒装骨粉`，请确保储量充足，否则请前往骨粉大宗拿取`盒装骨粉`进行补充
+<img src="https://i0.hdslb.com/bfs/article/3d4202c730603700b30f914daa3c5d98452972510.png" referrerpolicy="no-referrer" alt="骨粉余量">
+
+### 运行准备
+在进行完运行前检查后，请前往机器核心种植部分
+
+站立至坐标为`x-6215 y125 z-9305`的白玻璃上并靠近前方的白色玻璃板用于种植和种子补充，并开启`自动补货` **敲击音符盒可以进行菌岩切换**
+<img src="https://i0.hdslb.com/bfs/article/920d89cd81ec730070b65d6fe32c69bb452972510.png" referrerpolicy="no-referrer" alt="核心种植部分位置">
+
+### 开机
+此时打开拉杆，开机，手持种子，开启`屏蔽方块交互`,并将视角朝向如图所示的位置
+<img src="https://i0.hdslb.com/bfs/article/f1532dcef9da38e8949b47a7dc739ecc452972510.png" referrerpolicy="no-referrer" alt="核心种植部分位置视角朝向">
+
+等待听到爆炸声，即可开启`持续右键` 进行种植
+
+### 关机
+种植完成，请先停止种植，关闭屏蔽方块交互，关闭拉杆，待机器完全停止运行方可离开
+
+### 产物提取
+位于种子拿取同一个仓库
+<img src="https://i0.hdslb.com/bfs/article/78ca598fe1646568afbc9d58016f5331452972510.png" referrerpolicy="no-referrer" alt="种子拿取&产物提取">
