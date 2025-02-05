@@ -1,6 +1,6 @@
 ---
 title: 海淀_半自动高效下界菌场使用教程
-published: 2025-2-5
+published: 2025-02-5
 description: 本文记录了日啊服务器中257号中的下界菌场使用方法
 tags: [Minecraft,红石科技,使用教程,教程,下界菌场，树场，木头，菌柄，盒子]
 category: 使用导引
