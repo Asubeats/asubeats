@@ -24,7 +24,7 @@ draft: false
 <img src="https://i0.hdslb.com/bfs/article/4a37ded80b57357015c0dbe163f918ca452972510.png" referrerpolicy="no-referrer" alt="外观_1">
 
 ## 基本能力
-**以10.8w/h效率产出下界菌柄，9.3w/h效率产出下界疣块，1w/h效率产出菌光体** 并配有配套打包机和储存大宗
+**以10.8w/h效率产出下界菌柄，9.3w/h效率产出下界疣块，1w/h效率产出菌光体** 并配有配套`打包机`和`储存大宗`
 
 ## 使用方法
 :::caution
@@ -54,13 +54,13 @@ draft: false
 <img src="https://i0.hdslb.com/bfs/article/920d89cd81ec730070b65d6fe32c69bb452972510.png" referrerpolicy="no-referrer" alt="核心种植部分位置">
 
 ### 开机
-此时打开拉杆，开机，手持种子，开启`屏蔽方块交互`,并将视角朝向如图所示的位置
+此时打开`拉杆`，开机，手持种子，开启`屏蔽方块交互`,并将视角朝向如图所示的位置
 <img src="https://i0.hdslb.com/bfs/article/f1532dcef9da38e8949b47a7dc739ecc452972510.png" referrerpolicy="no-referrer" alt="核心种植部分位置视角朝向">
 
 等待听到爆炸声，即可开启`持续右键` 进行种植
 
 ### 关机
-种植完成，请先停止种植，关闭屏蔽方块交互，关闭拉杆，待机器完全停止运行方可离开
+种植完成，请先停止种植，关闭`屏蔽方块交互`，关闭`拉杆`，待机器完全停止运行方可离开
 
 ### 产物提取
 位于种子拿取同一个仓库
