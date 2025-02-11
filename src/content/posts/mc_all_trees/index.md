@@ -9,40 +9,40 @@ draft: false
 
 # Intro
 
-本文记录了日啊服务器257号中全树种树场的使用基本教程
-
+本文记录的RIA第257号共鸣点“ **海淀** ”中 **全树种树场** 的使用方法
 
 # Main
-
 ## 地理位置
 
-鸟居位置: x: -6178 z: -9207 辉月北方，古渊境西北，点画出版社东南
+鸟居位置: `x: -6178 z: -9207` 辉月北方，古渊境西北，点画出版社东南
 
-机器精准位置: x-6215 z-9303 下层(上层是菌)
+机器精准位置: `x-6215 z-9303` `下层`(上层是菌)
 
 ## 开机教程
 
 ### 1.确认骨粉余量
 
 在如图所示的箱子内确认盒装骨粉为几乎全满，防止一些不必要的问题
-~~骨粉拆包机在那么紧凑的地方,你也不想钻进去修吧~~
+~~骨粉拆包机在那么紧凑的地方,你也不想钻进去修吧~~ 要不然真的真的麻烦死了~~~！！
 
-![确认位置如图](./check_bonemeal.jpg)
+<img src="https://i0.hdslb.com/bfs/article/ff2a08019866147669bbbb593b059dd6452972510.png" referrerpolicy="no-referrer" alt="骨粉余量检测">
 
 ### 2.拿取树苗
 
-在如图所示的位置拿取树苗，注意，请确保是类似于图中的背包存放形式，方便使用带有自动补货功能的mod与木棍的销毁等
+在如图所示的位置拿取树苗，注意，**请确保是类似于图中的背包存放形式**，方便使用带有自动补货功能的mod与木棍的销毁等,并且开启自动补货
 
-![背包样式](./pickup_2.jpg)
+<img src="https://i0.hdslb.com/bfs/article/68f5766f9660f00a1ecc3fc4c2aaf34f452972510.png" referrerpolicy="no-referrer" alt="背包样式示例">
 
-![拿取树苗的位置](./pickup_1.jpg)
-
+提醒：这里可以使用Item Scroller的全部丢出功能丢出再捡回来，来达到快速完成背包布置的目的
+<img src="https://i0.hdslb.com/bfs/article/da15b539823eee7a6075a75b8d99ed07452972510.png" referrerpolicy="no-referrer" alt="Item_Scroller">
+然后开启自动补货功能，图中的功能来自Tweakerwoo
+<img src="https://i0.hdslb.com/bfs/article/8507b09eaa3b07da72b3e5a1fdf49324452972510.png" referrerpolicy="no-referrer" alt="自动补货">
 
 ### 3.选择模式
 
-右键单击如图所示的音符盒，注意在进行这项操作前，请先提前关闭mod连点功能，要不然就会”；#；$（@/_+_@/
+右键单击如图所示的音符盒，注意在进行这项操作前，请先提前关闭mod辅助点击功能，要不然就会”；#；$（@/_+_@/boom~!
 
-![模式选择](./mode_select.jpg)
+<img src="https://i0.hdslb.com/bfs/article/bc3186a5b2344d3097423d14546bcae1452972510.png" referrerpolicy="no-referrer" alt="模式选择">
 
 注意，请等待模式切换所带来的机器变形完成再开机或切换下一模式，涉及橡木模式需要较长时间，千万注意
 
