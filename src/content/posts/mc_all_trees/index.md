@@ -87,5 +87,3 @@ draft: false
 本机器使用了分类大宗，使用基本方式为平视拿盒装，俯视拿散装
 
 <img src="https://i0.hdslb.com/bfs/article/12de15da2b95f6bb81fafe301e21a0e7452972510.png" referrerpolicy="no-referrer" alt="树场大宗">
-
-丛林45.2k 云杉35.0k 金合欢36.8k 樱花46.4k 杜鹃30.6k 白桦54.1k 橡木45.2k
