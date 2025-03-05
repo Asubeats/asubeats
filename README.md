@@ -24,4 +24,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asubeats&layout=compact&theme=tokyonight)
 
 ## 📫 Contact
+- 📧 Email: admin@asubeats.com
 - 🌐 Website: [asubeats.com](https://asubeats.com)
