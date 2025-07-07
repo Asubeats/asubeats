@@ -3,7 +3,7 @@ title: 全染料/花种仓库使用顺序
 published: 2025-04-27
 description: 本文记录了日啊服务器中257号中的全染料/花种使用顺序
 tags: [Minecraft,红石科技,使用教程,教程,繁花森林,花,染料,游戏,颜色,仓库]
-category: 使用导引
+category: Guides
 draft: false
 ---
 

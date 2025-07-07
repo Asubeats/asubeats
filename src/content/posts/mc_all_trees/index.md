@@ -3,7 +3,7 @@ title: 257号鸟居_全树种树场使用教程。
 published: 2024-12-16
 description: 本文记录了日啊服务器中257号中的全树种使用方法
 tags: [Minecraft,全树种,红石科技,使用教程,教程]
-category: 使用导引
+category: Guides
 draft: false
 ---
 

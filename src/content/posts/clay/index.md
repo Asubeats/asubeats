@@ -3,7 +3,7 @@ title: 全自动粘土机(骨粉吞噬者)使用教程
 published: 2025-06-14
 description: 全自动粘土机(骨粉吞噬者)使用教程，与相关的一些注意事项
 tags: [Minecraft,红石科技,使用教程,教程,粘土,红砖,游戏,颜色,生电,陶瓦]
-category: 使用导引
+category: Guides
 draft: false
 ---
 

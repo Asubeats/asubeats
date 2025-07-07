@@ -3,7 +3,7 @@ title: 257号鸟居_320熔炉组使用基本教程
 published: 2024-11-28
 description: 本本记录了日啊服务器257号中320熔炉组的使用基本教程
 tags: [游戏,Minecraft,生电,分享,教程,320熔炉组]
-category: 使用导引
+category: Guides
 draft: false
 ---
 

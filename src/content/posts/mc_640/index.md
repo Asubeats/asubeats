@@ -3,7 +3,7 @@ title: 海淀_640熔炉组使用教程
 published: 2025-02-04
 description: 本文记录了日啊服务器中257号中的640熔炉组使用方法
 tags: [Minecraft,熔炉组,红石科技,使用教程,教程,640熔炉组]
-category: 使用导引
+category: Guides
 draft: false
 ---
 
