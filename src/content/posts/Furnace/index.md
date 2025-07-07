@@ -7,3 +7,5 @@ category: Guides
 draft: true
 ---
 
+# Intro
+本文记录了奈落2880熔炉组的使用方法和注意事项
