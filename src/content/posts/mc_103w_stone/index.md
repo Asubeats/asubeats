@@ -1,5 +1,5 @@
 ---
-title: 257号鸟居_百万刷石机使用教程
+title: 百万刷石机使用教程
 published: 2024-11-29
 description: 本文记录了日啊服务器257号中百万刷石机的使用基本教程
 tags: [游戏,Minecraft,生电,分享,教程]
