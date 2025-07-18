@@ -16,6 +16,7 @@ draft: true
 ## Release
 Minecraft版本: `1.21.4 Fabric`
 整合包版本:`v1.0.5`
+Mod数量: `55个`(包括Mod本体及其依赖库)
 
 ## Download 
 !(点此进入分享链接)[https://drive.google.com/file/d/1ueTDMklx2pZpq3TVArsy5_lLDpADabls/view?usp=drive_link]
@@ -27,18 +28,31 @@ Minecraft版本: `1.21.4 Fabric`
     合并经验球，减少计算量
 * 钠 及其 附属性能优化
     包括：Sodium本体+动态光源+附属+土径阴影+扩展
-* 锂 Lithium
+* 锂(Lithium)
 * Bobby
-    服务器区块缓存，减少渲染压力
-* 实体渲染机制优化 Entity Culling
-* 树叶渲染优化 Cull leaves
+    缓存区块服务器，减少渲染压力
+* 实体渲染机制优化(Entity Culling)
+* 树叶渲染优化 (Cull leaves)
 * Very Many Players
 * Tweakerwoo的部分禁用项
 * BadOptimizations
+* 动态FPS(Dynamic FPS)
+    后台/闲时自动限制客户端渲染帧数，减少能耗&电脑压力
+* C^2M引擎
+    优化区块
+* 方块实体优化(Enhanced block entities)
+    减少实体计算量
+
+
 
 ### 体验优化
-* 现代化UI
+* 现代化UI(Modern UI)
     优化字体，界面等
-* 强制关闭加载屏幕
+* 强制关闭加载屏幕(forceloseloadingscreen)
     这能让你舒服点
-* 
+* 苹果皮(Apple Skin)
+    让玩家能够清晰的查看目前饱食度情况
+* 更好的统计信息界面(Bettrer Statistics Screen)
+    修改统计信息界面，使其更加清晰易于查看
+* 聊天头像(Chat Heads)
+    大家都是萌妹！
