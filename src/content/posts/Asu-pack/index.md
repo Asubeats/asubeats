@@ -4,7 +4,7 @@ published: 2025-07-18
 description: 本文是AsuPack for 1.21.4 v1.0.5 Release (Fabric轻量版)的发布页面
 tags: [Minecraft,整合包,红石科技,使用教程,教程,mod]
 category: Pack
-draft: true
+draft: false
 ---
 
 # Intro&Release&Download
@@ -42,8 +42,9 @@ Mod数量: `55个`(包括Mod本体及其依赖库)
     优化区块
 * 方块实体优化(Enhanced block entities)
     减少实体计算量
-
-
+* 修复GPU内存泄漏(fix GPU memory leak)
+* Debugify
+    修复mc已知的bug
 
 ### 体验优化
 * 现代化UI(Modern UI)
@@ -55,4 +56,45 @@ Mod数量: `55个`(包括Mod本体及其依赖库)
 * 更好的统计信息界面(Bettrer Statistics Screen)
     修改统计信息界面，使其更加清晰易于查看
 * 聊天头像(Chat Heads)
-    大家都是萌妹！
+    大家都是萌妹！好耶！
+* 输入法冲突修复(IMBlocker)
+
+### 美化Mod
+* 3D皮肤层(Skin Layers 3D)
+* Continuity
+    让玻璃等材质能连接起来
+* Iris Shaders
+    著名光影办法，内置了`BSL_v8.4.01.2` 和 `ComplementaryReimagined_r5.5.1`
+:::tip
+注意，本pack并未内置Distant Horizons这是因为dh对于生电机器缓存质量过低会很鬼畜,如果需要的话自己装上即可，不冲突
+:::
+
+### 功能性Mod
+* Bundle Inventory
+    收纳袋GUI管理
+* Xaero全家桶
+    包括Xaero's World Map 和Xaero's Mini Map
+* 地毯(Carpet)
+* 迷你HUD(Mini HUD)
+    实话说这玩意比F3好用
+* 投影(Litematica)
+    著名的mc mod，无论是生电还是建筑都离不开的mod，搭配轻松放置修复使用。生电玩家大爹之一
+* 轻松放置修复
+    修复投影自带的轻松放置无法放置某些方块的朝向的问题
+* 物品滚轮(Item Scroller)
+    喷射合成必备，当然他的批量管理容器内物品同样也是必备
+* 玉(Jade)
+    显示方块信息(虽然我觉得投影的更好用 ，但是更多人习惯这个)
+* Fast Trading
+    快速与村民进行交易
+* Flashback
+    新的录制mod，更少的存储占用
+:::tip
+建议不使用的时候禁用掉Flashback，这玩意很拖慢启动速度
+:::
+* Lightweight Inventory Sorting
+    哦我们的OMMC居然停更了，找了个也能一键整理的
+* Tweakeroo&TweakerMore
+    也是生电大爹之一，虽然做建筑也很有用，提供丰富的客户端修改项和优化项以及禁用项
+* ViaFabircPlus
+    使玩家能够加入多版本的服务器
