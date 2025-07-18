@@ -7,4 +7,16 @@ category: Pack
 draft: true
 ---
 
-# Intro
+# Intro&Release&Download
+## Intro
+本pack是Asu在服务器即将迈入1.21.4时自制的一个整合包，旨在平衡非重度生电和建筑以及性能优化，也就是说，如果是重度生电那么这个包肯定是不足的
+
+由于是第一次制作整合包，我不太了解部分mod/资源应该如何遵循分发规则。如果有不妥的地方还请指出，我会去修改的
+
+## Release
+Minecraft版本: 1.21.4 Fabric
+整合包版本:v1.0.5
+
+## Download 
+!(点此进入分享链接)[https://drive.google.com/file/d/1ueTDMklx2pZpq3TVArsy5_lLDpADabls/view?usp=drive_link]
+
