@@ -19,7 +19,7 @@ Minecraft版本: `1.21.4 Fabric`
 Mod数量: `55个`(包括Mod本体及其依赖库)
 
 ## Download 
-![点此进入分享链接](https://drive.google.com/file/d/1ueTDMklx2pZpq3TVArsy5_lLDpADabls/view?usp=drive_link)
+[点此进入分享链接](https://drive.google.com/file/d/1ueTDMklx2pZpq3TVArsy5_lLDpADabls/view?usp=drive_link)
 
 # 整合包介绍
 ## Mod介绍
