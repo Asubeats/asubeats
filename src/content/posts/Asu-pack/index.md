@@ -14,8 +14,8 @@ draft: false
 由于是第一次制作整合包，如果有不妥的地方还请指出，我会去修改的
 
 ## Release
-Minecraft版本: `1.21.4 Fabric`
-整合包版本:`v1.0.5`
+Minecraft版本: `1.21.4 Fabric`  
+整合包版本:`v1.0.5`  
 Mod数量: `55个`(包括Mod本体及其依赖库)
 
 ## Download 
