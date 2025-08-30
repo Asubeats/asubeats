@@ -1,6 +1,6 @@
 ---
 title: 骨粉机使用教程
-published: 2025-8-29
+published: 2025-08-29
 description: 本文记录了日啊服务器257号中骨粉机的使用基本教程
 tags: [游戏,Minecraft,生电,分享,教程,骨粉,红石科技]
 category: Guides
