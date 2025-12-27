@@ -18,11 +18,9 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-![Asubeats's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asubeats&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asubeats&layout=compact&theme=tokyonight)
+## 📊 GitHub Activity
+![Commit Activity](https://img.shields.io/github/commit-activity/m/Asubeats/Asubeats?style=flat&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/Asubeats/Asubeats?style=flat&logo=github)
 
 ## 📫 Contact
 - 🌐 Website: [asubeats.com](https://asubeats.com)
-
