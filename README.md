@@ -1,4 +1,5 @@
-### Hi there, I'm Asubeats! 👋
+### Hi there, I'm Asubeats
+代码能力依托矢，聊天吹水我第一  所以请不要对我抱有不切实际的幻想
 
 ![Banner](https://i0.hdslb.com/bfs/article/3cca9e15573ce05efcec7fa9170d6b51452972510.png)
 
