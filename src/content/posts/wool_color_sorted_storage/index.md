@@ -20,15 +20,16 @@ draft: false
 
 机器精准位置: `x-6256 z-9192`
 
-![the_secene](https://i0.hdslb.com/bfs/openplatform/58989679349325c5ebd482dd79a1fa15ab6f9b02.png)
+<img src="https://i0.hdslb.com/bfs/openplatform/58989679349325c5ebd482dd79a1fa15ab6f9b02.png" referrerpolicy="no-referrer">
 
-![the_secene_2](https://i0.hdslb.com/bfs/openplatform/4ab4c222fa26f969fb62eb82c8e41a181b1f0144.png)
+<img src="https://i0.hdslb.com/bfs/openplatform/4ab4c222fa26f969fb62eb82c8e41a181b1f0144.png" referrerpolicy="no-referrer">
 
 # 使用方法
 这我还要写？直接拿啊，如果没货了请联系，剩下没了
 
 # 机器本体
 是真的有1000多只羊啊！
-![sheep_1](https://i0.hdslb.com/bfs/openplatform/c7e8541eb7cb0f5a71bcc3451d7cc0f8eac5f011.png)
-![sheep_2](https://i0.hdslb.com/bfs/openplatform/540b1c99e24c977b65f8098b4af605c8b70edb2f.png)
-![sheep_3](https://i0.hdslb.com/bfs/openplatform/7bb8dff49dd21cb29adb443f2e387b97557d5856.png)
+
+<img src="https://i0.hdslb.com/bfs/openplatform/c7e8541eb7cb0f5a71bcc3451d7cc0f8eac5f011.png" referrerpolicy="no-referrer">
+<img src="https://i0.hdslb.com/bfs/openplatform/540b1c99e24c977b65f8098b4af605c8b70edb2f.png" referrerpolicy="no-referrer">
+<img src="https://i0.hdslb.com/bfs/openplatform/7bb8dff49dd21cb29adb443f2e387b97557d5856.png" referrerpolicy="no-referrer">

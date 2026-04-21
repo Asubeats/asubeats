@@ -23,9 +23,10 @@ draft: false
 | [320熔炉组](https://asubeats.com/posts/mc_320/) | x-6122 z-9227                    | 是      | 烧制可烧物品     | 否              | 否                | 盒子                 |
 | [640熔炉组](https://asubeats.com/posts/mc_640/) | x-6206 z-9186                    | 故障    | 烧制可烧物品     | 否              | 否                | 盒子                 |
 | [半自动高效下界菌场](https://asubeats.com/posts/mc_fungus/) | x-6214 z-9303（二层）            | 是      | 下界菌 / 菌丝    | 是              | 否                | 盒子，菌苗           |
-| [全自动粘土机](https://asubeats.com/posts/clay/) | x-6083 z-9230                    | 是      | 粘土             | 是              | 否                | 盒装骨粉             |
+| [全自动粘土机](https://asubeats.com/posts/clay/) | x-6083 z-9230                    | 是      | 粘土 / 泥巴      | 是              | 否                | 盒装骨粉             |
 | [骨粉机](https://asubeats.com/posts/mc_bonemeal/) | x-6119 z-9257                    | 是      | 骨粉             | 否              | 否                | 盒子                 |
 | [全染料/花种仓库](https://asubeats.com/posts/flowers/) | x-6163 z-9238                    | 是      | 染料 / 花种      | 否              | 是                | -                    |
+| [全颜色羊毛仓库](https://asubeats.com/posts/wool_color_sorted_storage/) | x-6256 z-9192 | 是      | 全色羊毛         | 是              | 是                | 盒子，铁锭           |
 
 :::tip
 Asu阿苏在服内的在线率并不低，你甚至可以直接问TA~~
