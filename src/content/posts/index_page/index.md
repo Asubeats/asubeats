@@ -3,7 +3,7 @@ title: 海淀全机器索引页面
 published: 2026-05-19
 description: 本文记录了日啊服务器中257号共鸣点的全部机器，以及所有机器的基本信息，如位置，运行情况，产物，效率等
 tags: [Minecraft,红石科技,使用教程,教程]
-category: Guides
+category: Index
 draft: false
 ---
 
