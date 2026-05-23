@@ -1,6 +1,6 @@
 ---
 title: 海淀全机器索引页面
-published: 2026-05-19
+published: 2026-05-24
 description: 本文记录了日啊服务器中257号共鸣点的全部机器，以及所有机器的基本信息，如位置，运行情况，产物，效率等
 tags: [Minecraft,红石科技,使用教程,教程]
 category: Index
@@ -8,7 +8,7 @@ draft: false
 ---
 
 # Intro
-更新时间：`2026-5-19` 
+更新时间：`2026-5-24` 
 
 :::warning
 随时间推移部分信息可能不全或出现错误，请以服内信息为准
@@ -20,6 +20,7 @@ draft: false
 | [全树种树场](https://asubeats.com/posts/mc_all_trees/) | x-6215 z-9303（下层）            | 是      | 各种树苗 / 原木                  | 是              | 否                | 盒子，骨粉，树苗     |
 | [百万刷石机](https://asubeats.com/posts/mc_103w_stone/) | x-6164 z-9141                    | 是      | 原石                             | 否              | 是                | 盒子                 |
 | [320熔炉组](https://asubeats.com/posts/mc_320/) | x-6122 z-9227                    | 是      | 烧制可烧物品                     | 否              | 否                | 盒子                 |
+| [640熔炉组](https://asubeats.com/posts/mc_640/) | x-6206 z-9186                    | 故障    | 烧制可烧物品                     | 否              | 否                | 盒子                 |
 | [半自动高效下界菌场](https://asubeats.com/posts/mc_fungus/) | x-6214 z-9303（二层）            | 是      | 下界菌 / 菌丝                    | 是              | 否                | 盒子，菌苗           |
 | [全自动粘土机](https://asubeats.com/posts/clay/) | x-6083 z-9230                    | 是      | 粘土 / 泥巴                      | 是              | 否                | 盒装骨粉             |
 | [骨粉机](https://asubeats.com/posts/mc_bonemeal/) | x-6119 z-9257                    | 是      | 骨粉 / 苔藓类产物                | 否              | 否                | 盒子                 |
@@ -41,6 +42,7 @@ draft: false
 | 蜜蜂繁殖机               | x-6579 z-8898                    | 是      | 蜂箱                             | 是              | 是                | 虞美人，蜂箱         |
 | 大花机                   | x-6500 z-8897                    | 是      | 几种大花                         | 否              | 否                | 骨粉                 |
 | 普通刷花机               | x-6530 z-8884                    | 是      | 几种小花                         | 否              | 否                | 骨粉，盒子           |
+| [地图画复印机](https://asubeats.com/posts/map_printer/) | x-6211 z-9213                    | 是      | 地图画                           | 否              | 否                | 空地图               |
 
 :::tip
 Asu阿苏在服内的在线率并不低，你甚至可以直接问TA~~
