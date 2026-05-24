@@ -43,6 +43,7 @@ draft: false
 | 大花机                   | x-6500 z-8897                    | 是      | 几种大花                         | 否              | 否                | 骨粉                 |
 | 普通刷花机               | x-6530 z-8884                    | 是      | 几种小花                         | 否              | 否                | 骨粉，盒子           |
 | [地图画复印机](https://asubeats.com/posts/map_printer/) | x-6211 z-9213                    | 是      | 地图画                           | 否              | 否                | 空地图               |
+| [金胡萝卜机](https://asubeats.com/posts/golden_carrot/) | x-6186 z-9216                    | 是      | 金胡萝卜                         | 否              | 是                | 盒装金块，盒装胡萝卜 |
 
 :::tip
 Asu阿苏在服内的在线率并不低，你甚至可以直接问TA~~
