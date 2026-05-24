@@ -3,7 +3,7 @@ title: 地图画复印机
 published: 2026-05-24
 description: 本文记录了日啊服务器中257号的一个用于复印地图画的机器的使用教程
 tags: [Minecraft,红石科技,使用教程,教程]
-category: Guide
+category: Guides
 draft: false
 ---
 
